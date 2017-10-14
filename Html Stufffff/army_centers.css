@@ -1,0 +1,396 @@
+.aboutus1{
+	
+	text-align: justify;
+	margin-top:1%;
+
+
+border: 2px solid black;
+
+
+
+}
+
+
+#topper{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+.army{
+    
+    margin-top: 5px;
+      margin-left: 2%;
+
+}
+#punjab{
+    margin-left: 43%;
+    font-size: 60px;
+}
+
+
+.army1{
+    margin-top: 50px;
+  margin-left: 2%;
+
+}
+#kpk{
+    margin-left: 43%;
+ font-size: 60px;
+}
+
+.army2{
+    margin-top: 55px;
+  
+  margin-left: 2%;
+}
+
+#sindh{  margin-left: 43%;
+ font-size: 60px;
+
+}
+
+.army3{
+    margin-top: 20px;
+  
+  margin-left: 2%;
+}
+
+
+#blouch{  margin-left: 40%;
+ font-size: 60px;
+    
+}
+
+    #one {
+            
+text-align: left;
+            background-color: green;
+            color: white;
+            margin-top: -10px;
+            width: 1350px;
+            height: 21px;
+        
+
+           
+        }
+        img.img{
+            padding-left: 2%;
+        }
+        
+        .menu {
+              padding: 1%;
+            float: left;
+        }
+
+        
+        .home {
+            background-color: green;
+
+            color: white;
+            padding: 8px;
+            border: none;
+            font-size: 12px;
+            cursor: pointer;
+
+        }
+        
+       
+        
+        
+        
+        
+        .ghr {
+            background-color: green;
+        }
+        
+        
+        .set {
+            background-color: green;
+            margin-left: 10px;
+            padding-left: 19%;
+
+        
+
+        }
+       
+        
+        .admission {
+            background-color: green;
+            color: white;
+              border: none;
+            padding: 8px;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        .admission-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+        }
+        
+        .admission-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        
+        .admission-content a:hover {
+            background-color: green
+        }
+        
+        .entry:hover .admission-content {
+            display: block;
+        }
+        
+        
+        .entry {
+            background-color: green;
+        }
+        
+        .notes {
+            background-color: green;
+              border: none;
+            color: white;
+            padding: 8px;
+            
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        .notes-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+        }
+        
+        .notes-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        
+        .notes-content a:hover {
+            background-color: green
+        }
+        
+        .files:hover .notes-content {
+            display: block;
+        }
+        
+        
+        
+        .files {
+            background-color: green;
+        }
+        
+        .cadetcollege {
+            background-color: green;
+            color: white;
+            padding: 8px;
+              border: none;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        .cadetcollege-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+        }
+        
+        .cadetcollege-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        
+        .cadetcollege-content a:hover {
+            background-color:  green
+        }
+        
+        .college:hover .cadetcollege-content {
+            display: block;
+        }
+        
+        
+        
+        .college {
+            background-color: green;
+        }
+        
+
+
+
+        .universtyA {
+            background-color: green;
+            color: white;
+            padding: 8px;
+              border: none;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        
+        
+        
+        
+        .universty {
+            background-color: green;
+        }
+        
+        .testcenter {
+            background-color: green;
+            color: white;
+            padding: 8px;
+              border: none;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        .testcenter-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            
+        }
+        
+        .testcenter-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        
+        .testcenter-content a:hover {
+            background-color:  green
+        }
+        
+        .test:hover .testcenter-content {
+            display: block;
+        }
+        
+     
+        
+        .test {
+            background-color: green;
+        }
+        .aboutus {
+            background-color: green;
+            color: white;
+            padding: 8px;
+              border: none;
+            font-size: 12px;
+            cursor: pointer;
+        }
+        
+        .aboutus-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+        }
+        
+        .aboutus-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        
+        .aboutus-content a:hover {
+            background-color:green
+        }
+        
+        .us:hover .aboutus-content {
+            display: block; 
+        }
+        
+        
+        
+        .us {
+            background-color: green;
+        }
+
+
+
+        
+.set2{
+    padding-right: 20.5%;
+}
+
+        
+        #homebutton {
+            width: 90px;
+        }
+
+
+
+
+
+
+
+
+.footer{
+    margin-top: 5%;
+    background-color: green;
+    color: white;
+    height: 170px;
+    border:7px solid black;
+}
+
+#img1{
+    position: absolute;
+    top :2905px;
+    right: 1140px;
+}
+#img2{
+    position: absolute;
+    top :2955px;
+    right: 1140px;
+}
+#img3{
+    position: absolute;
+    top :3008px;
+    right: 1140px;
+}
+
+
+.info{
+    padding-left: 40%;
+    margin-top: -13.2%;
+    color: white;
+
+
+}
+#img4{
+    position: absolute;
+    top :3006px;
+    right: 820px;
+}
+#img5{
+    position: absolute;
+    top :2960px;
+    right: 820px;
+}
+#img6{
+    position: absolute;
+    top :2906px;
+    right: 820px;
+}
+.feedback{
+    
+    margin-top:-185px;
+    padding-left: 1060px;
+    color: white;
+}
